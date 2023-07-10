@@ -4,3 +4,4 @@ echo "this is the second line"
 set -x
 df -h 
 set +x
+date
