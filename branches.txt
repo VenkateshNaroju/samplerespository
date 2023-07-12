@@ -1,0 +1,4 @@
+while developing a application need to create three types of branches in any repository(git hub)
+1. dev branch: by using this branch we can develop the code and we can test the code several times , we can modify several times without rising PR.
+2. UAT (user acceptance test)branch: by using this repository user(client) can test the code after developing
+3. master branch : this branch is a final branch for any application code to deploy the application
